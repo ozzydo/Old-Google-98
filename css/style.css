@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 10px 100px;
+    /* background-color: aqua; */
+}
+
+.resim {
+    width: 351px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box {
+    text-align: center;
+    margin: 1px;
+    background-color: #EEEEEE;
+}
+
+.box input {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 3px;
+}
+
+#leftarticle {
+    height: 85px;
+    width: 37%;
+    float: left;
+    background-color: #7EE5DA;
+    margin: 1px;
+    text-align: center;
+    font-size: 14px;
+}
+
+#middlearticle{
+    height: 85px;
+    width: 20%;
+    float: left;
+    background-color: #70CCC2;
+    margin: 1px;
+    /* text-align: center; */
+    font-size: 14px;
+}
+
+#rightarticle{
+    height: 85px;
+    width: 42%;
+    background-color: #62B3AA;
+    float: left;
+    margin: 1px;
+    text-align: center;
+    font-size: 14px;
+}
+
+#footer {
+    text-align: center;
+    margin-top: 15px;
+    font-size: small;
+    height: 30px;
+}
+
+.list {
+    font-size: small;
+    list-style-type: none;
+    text-align: center;
+}
+
+#getgoogle {
+    font-size: 17px;
+}
